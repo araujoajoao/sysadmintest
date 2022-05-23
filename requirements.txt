@@ -1,0 +1,4 @@
+paramiko
+apache-superset
+redis
+mysql.connector
